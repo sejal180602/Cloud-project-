@@ -1,4 +1,5 @@
 🧠 Agentic AI Health Symptom Checker
+
 Capstone Project | IBM SkillsBuild 4-Week Internship on AI & Cloud Technologies
 
 This repository documents the Agentic AI Health Symptom Checker, developed as part of the IBM SkillsBuild Internship, a collaborative initiative by IBM, AICTE, and the Edunet Foundation. The project uses AI to help users understand their health symptoms through natural language queries.
