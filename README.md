@@ -5,19 +5,29 @@ Capstone Project | IBM SkillsBuild 4-Week Internship on AI & Cloud Technologies
 This repository documents the Agentic AI Health Symptom Checker, developed as part of the IBM SkillsBuild Internship, a collaborative initiative by IBM, AICTE, and the Edunet Foundation. The project uses AI to help users understand their health symptoms through natural language queries.
 
 
-📝 Table of Contents
+📝 Table of Contents:
+
 Intern Details
+
 About the Internship
+
 Project: Agentic AI Health Symptom Checker
+
 Problem Statement
+
 Solution Overview
+
 ⚙️ Technology Stack
+
 🚀 System Approach
+
 📊 Output
+
 📁 Repository Contents
 
 
-👩‍💻 Intern Details
+👩‍💻 Intern Details:
+
 Name: Sejal Karnwal
 
 Institute: Guru Jambheshwar University of Science and Technology , Hisar
@@ -27,7 +37,8 @@ Duration: 4 Weeks (15th July 2025 to 7th August 2025)
 AICTE ID: STU64548ff77b0d11683263479
 
 
-📖 About the Internship
+📖 About the Internship:
+
 This internship provided practical exposure to emerging technologies such as AI, Cloud, and Data Analytics using the IBM SkillsBuild and IBM Cloud platforms. The program was divided into weekly sessions including:
 AI fundamentals, Cloud Computing, Data Analytics
 Chatbot development and AutoAI usage
@@ -82,7 +93,7 @@ Returns possible conditions like Common Cold, Flu, etc.
 Suggests urgency level: Low/Medium/High
 
 Advises home remedies and when to consult a doctor
-<img width="1440" height="900" alt="Screenshot 2025-08-01 at 4 51 41 PM" src="https://github.com/user-attachments/assets/ed7ae6a9-4ca0-4ed1-b31d-b4fb9ac3f91d" />
+
 
 📁 Repository Contents
 Symptom_Checker_Agent.pdf: Final project report and documentation
