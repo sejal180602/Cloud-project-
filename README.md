@@ -1,11 +1,11 @@
-🧠 Agentic AI Health Symptom Checker
+<h1>🧠 Agentic AI Health Symptom Checker
 
 Capstone Project | IBM SkillsBuild 4-Week Internship on AI & Cloud Technologies
 
 This repository documents the Agentic AI Health Symptom Checker, developed as part of the IBM SkillsBuild Internship, a collaborative initiative by IBM, AICTE, and the Edunet Foundation. The project uses AI to help users understand their health symptoms through natural language queries.
 
 
-📝 Table of Contents:
+<h4>📝 Table of Contents:
 
 Intern Details
 
@@ -27,7 +27,7 @@ Solution Overview
 
 
 
-👩‍💻 Intern Details:
+<h4>👩‍💻 Intern Details:
 
 Name: Sejal Karnwal
 
@@ -38,7 +38,7 @@ Duration: 4 Weeks (15th July 2025 to 7th August 2025)
 AICTE ID: STU64548ff77b0d11683263479
 
 
-📖 About the Internship:
+<h4>📖 About the Internship:
 
 This internship provided practical exposure to emerging technologies such as AI, Cloud, and Data Analytics using the IBM SkillsBuild and IBM Cloud platforms. The program was divided into weekly sessions including:
 AI fundamentals, Cloud Computing, Data Analytics
@@ -47,11 +47,13 @@ Real-world project development under expert mentorship
 💡 Project: Agentic AI Health Symptom Checker
 
 
-📌 Problem Statement
+<h4>📌 Problem Statement
+
 Users often struggle to understand the severity and cause of symptoms. Self-diagnosis using the internet can be misleading. There is a need for a trusted, AI-powered tool that provides symptom analysis and health advice based on credible data.
 
 
-✅ Solution Overview
+<h4>✅ Solution Overview
+
 The project implements a conversational AI agent that:
 Accepts symptoms via natural language input
 Retrieves verified medical data from sources like WHO, NHP, and medical journals
@@ -60,7 +62,8 @@ Avoids self-diagnosis risks and supports multi-language interaction
 Built and deployed using IBM Watsonx on IBM Cloud
 
 
-⚙️ Technology Stack
+<h4>⚙️ Technology Stack
+
 Platform: IBM Cloud Lite
 AI/NLP Engine: IBM Watsonx
 Language Model: Mistral (open-weight LLM)
@@ -70,7 +73,8 @@ Language: Python
 Tools: GitHub, Postman
 
 
-🚀 System Approach
+<h4>🚀 System Approach
+
 Data Collection:
 Medical data from WHO, NHP, Mistral model docs, verified journals
 
@@ -86,7 +90,7 @@ Hosted using IBM Watsonx cloud-based services
 Evaluation:
 Feedback analysis, expert review cycles, multilingual support
 
-📊 Output
+<h4>📊 Output
 Accepts user input like "I have sore throat and fever"
 
 Returns possible conditions like Common Cold, Flu, etc.
@@ -96,7 +100,8 @@ Suggests urgency level: Low/Medium/High
 Advises home remedies and when to consult a doctor
 
 
-📁 Repository Contents
+<h4>📁 Repository Contents
+
 Symptom_Checker_Agent.pdf: Final project report and documentation
 
 README.md: https://github.com/sejal180602/Cloud-project-/edit/main/README.md
